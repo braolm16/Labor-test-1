@@ -17,8 +17,9 @@ Wichtige Schritte in Git sind:
 1.`git add`
 1.`git commit`
 1.`git push`
+1.`git pull`
 
-Weiter Dokumentationen zu Git sind [hier](https://git.scn.com/doc) zu finden.
+Weiter Dokumentationen zu Git sind [hier](https://git-scm.com/doc) zu finden.
 
 Ein erstes C-Programm sieht so aus:
 
